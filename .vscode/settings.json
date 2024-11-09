@@ -1,0 +1,4 @@
+{
+  "java.compile.nullAnalysis.mode": "disabled",
+  "cmake.sourceDirectory": "C:/Users/tech_guide/Desktop/Practice/ecommerce_app/windows/runner"
+}
